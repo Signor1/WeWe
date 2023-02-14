@@ -13,7 +13,7 @@ const Products = () => {
 
   return (
     <>
-      <section className="text-gray-600 body-font px-4">
+      <section className="text-gray-600 body-font ">
         <div className="container px-5 md:py-12 py-8 mx-auto">
           <h1 className="py-2 md:text-3xl text-2xl font-light text-slate-900 tracking-widest">
             Flash Sales
